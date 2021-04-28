@@ -133,7 +133,8 @@ app.layout = html.Div(
                               'id': df_columns[idx]
                             } for (idx, col) in enumerate(data_columns)],
                             data=tb.to_dict('records'),
-                            style_cell=dict(textAlign='left'),
+                            style_cell={'textAlign':'left', 'font-family':'sans-serif'},
+                           # style_cell=dict(textAlign='left'),
                             style_header=dict(backgroundColor="lightgrey", fontWeight='bold'),
                             style_data=dict(backgroundColor="white")
                         )
