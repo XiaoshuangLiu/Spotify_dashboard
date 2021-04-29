@@ -7,7 +7,3 @@ The dashboard summarizes the information of Spotify's top 50 most streamed artis
 ## Requirements
 
 Python 3
-
-## How to run this app
-
-We suggest you to create a virtual environment for running this app with Python 3. Clone this repository and open your terminal/command prompt in the root folder.
