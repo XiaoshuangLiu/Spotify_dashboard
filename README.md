@@ -1,7 +1,6 @@
-# MA705 Final Project: Spotify_dashboard
+# MA705 Final Project: Spotify Dashboard
 
-This repository contains files used in the MA705 dashboard project. 
-The final dashboard is deployed on Heroku [here](https://xiaoshuang.herokuapp.com/).
+This repository contains files used in the MA705 dashboard project. The final dashboard is deployed on Heroku [here](https://xiaoshuang.herokuapp.com/).
 
 ## Dashboard Description
 
