@@ -9,7 +9,7 @@ The dashboard summarizes the information of Spotify's top 50 most streamed artis
 
 ## Data Sources
 
-The Top 50 artist list is from [CHART DATA](https://chartdata.org/2020/12/02/spotifys-top-50-artists-of-2020/)
+The Top 50 artist list is from [CHART DATA](https://chartdata.org/2020/12/02/spotifys-top-50-artists-of-2020/).
 The data is collected from the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/#category-artists) according to the top 50 artists list. You can find the data scraping code on data scraping and cleaning.py file. The file will generate two raw csv file: raw_artists.csv and raw_tracks.csv. After data cleaning, two cleaned csv file were exported. The variables in each dataframe are listed below.
 
 
