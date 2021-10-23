@@ -1,4 +1,5 @@
 # MA705 Final Project: Spotify Dashboard
+![screencapture-xiaoshuang-herokuapp-2021-10-22-20_57_51](https://user-images.githubusercontent.com/16827556/138536256-bb7f5d0e-0b89-48f9-a42e-eb1d39c1eb71.png)
 
 This repository contains files used in the MA705 dashboard project. The final dashboard is deployed on Heroku [here](https://xiaoshuang.herokuapp.com/).
 
